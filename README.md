@@ -1,2 +1,3 @@
-# markinhosmrk.github.io
-Blog
+---
+layout: home
+---
