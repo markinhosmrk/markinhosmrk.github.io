@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Primeiro post"
 date: 2026-02-23 11:46:00 -0300
-categories: começo inicial
 ---
 
 Opa! Esse é o meu primeiro post por aqui!
