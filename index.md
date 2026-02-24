@@ -36,6 +36,7 @@ title: Marcos Marchesini
 
 .read-more:hover {
 	background-color: #1a252f;
+	color: #ffffff;
 }
 
 </style>
