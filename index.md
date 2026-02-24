@@ -41,21 +41,21 @@ title: Marcos Marchesini
 </style>
 
 {% for post in site.posts %}
-	<div class="post-card">
-		<h2>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</h2>
+<div class="post-card">
+<h2>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</h2>
 
-		<div class="post-date">
-			{{ post.date | date: "%d/%m/%Y" }}
-		</div>
+<div class="post-date">
+{{ post.date | date: "%d/%m/%Y" }}
+</div>
 
-		<p>
-			{{ post.excerpt }}
-		</p>
+<p>
+{{ post.excerpt }}
+</p>
 
-		<a class="read-more" href="{{ post.url }}">
-			Ler mais
-		</a>
-	</div>
+<a class="read-more" href="{{ post.url }}">
+Ler mais
+</a>
+</div>
 {% endfor %}
