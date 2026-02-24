@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Primeiro post"
 date: 2026-02-23 11:46:00 -0300
 categories: começo inicial
