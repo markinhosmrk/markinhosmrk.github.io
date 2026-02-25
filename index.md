@@ -56,7 +56,7 @@ title: Marcos Marchesini
 </p>
 
 <a class="read-more" href="{{ post.url }}">
-Ler mais
+Ler mais {% octicon note %}
 </a>
 </div>
 {% endfor %}
